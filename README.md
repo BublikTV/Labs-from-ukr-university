@@ -1,2 +1,2 @@
 # Labs-from-ukr-university
-# Laboratorium_UKR  Wszystkie laboratorium za 1 rok w Ukrainie. Dodaję .c pliki i sprawozdania (są w języku ukraińskim), są zadania narysowane lub podane wzóry, mam nadzieje że będzie jasne w ogólności co wymagało zadanie. (także zawisprawozdania zawierają również schematy (wykresy) programu).
+Wszystkie laboratoria za pierwszy rok na Ukrainie. Dodaję pliki .c i sprawozdania (są w języku ukraińskim). W zadaniach są rysunki lub podane wzory; mam nadzieję, że będzie jasne, o co chodzi w zadaniu. Sprawozdania zawierają również schematy (wykresy) programu.
